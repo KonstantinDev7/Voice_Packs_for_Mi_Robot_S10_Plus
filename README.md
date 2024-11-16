@@ -12,3 +12,6 @@
 * **URL:** https://github.com/KonstantinDev7/Voice_Packs_for_Mi_Robot_S10_Plus/raw/refs/heads/main/Voice_Packs/LesV1ogg.tar.gz
 * **Size:** 2107482
 * **Md5:** 267b6a6bb90c14989ff4fb8369a29ead
+
+
+## **UPD** - Додано озвучку GLaDOS
