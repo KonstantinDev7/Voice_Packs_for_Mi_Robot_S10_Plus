@@ -15,6 +15,6 @@
 
 
 ## **UPD** - Додано озвучку GLaDOS
- * **URL** https://github.com/KonstantinDev7/Voice_Packs_for_Mi_Robot_S10_Plus/raw/refs/heads/main/Voice_Packs/glados.tar.gz
- * **Size** 9622469
- * **Md5** d914742b2c4cedadf478053364ebb359
+ * **URL:** https://github.com/KonstantinDev7/Voice_Packs_for_Mi_Robot_S10_Plus/raw/refs/heads/main/Voice_Packs/glados.tar.gz
+ * **Size:** 9622469
+ * **Md5:** d914742b2c4cedadf478053364ebb359
